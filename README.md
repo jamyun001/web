@@ -10,20 +10,22 @@
 
 3. npm install ws uuid
 
-4. cd web
+4. git clone https://github.com/jamyun001/web
 
-5. cd [ 파일 ]
+5. cd web
 
-6. unzip [파일].zip
+6. cd [ 파일 ]
 
-7. rm -rf [파일].zip
+7. unzip [파일].zip
 
-8. start.bat -> start.sh
+8. rm -rf [파일].zip
 
-9. chmod +x start.sh ( 권한 부여 )
+9. start.bat -> start.sh
 
-10. ./start.sh ( 실행 )
+10. chmod +x start.sh ( 권한 부여 )
 
-11. 마크 인게임 /connect localhost:3000
+11. ./start.sh ( 실행 )
+
+12. 마크 인게임 /connect localhost:3000
 
 ## 웹소켓을 사용해서 얻은 불이득은 책임지지 않습니다.
