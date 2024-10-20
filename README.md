@@ -18,4 +18,4 @@
 
 7. ./start.sh ( 실행 )
 
-8. /connect localhost:3000
+8. 마크 인게임 /connect localhost:3000
