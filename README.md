@@ -6,7 +6,7 @@
 
 1. Termux 설치 ( 앱스토어 )
 
-2. pkg install nodejs
+2. pkg install nodejs git
 
 3. npm install ws uuid
 
